@@ -10,4 +10,5 @@ import Foundation
 
 class Porco {
     var nome: String = "Pork"
+    var idade: Int = 6
 }
