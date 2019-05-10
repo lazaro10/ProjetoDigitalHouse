@@ -11,4 +11,8 @@ import Foundation
 class Porco {
     var nome: String = "Pork"
     var idade: Int = 6
+    
+    func andar() {
+        print("Pork Andando")
+    }
 }
